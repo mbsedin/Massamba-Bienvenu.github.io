@@ -1,0 +1,101 @@
+body {
+  background-color: #eaf6f6;
+  max-width: 960px;
+  padding: 0px 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+#mapdiv3 {
+  height: 520px;
+  width: 960px;
+}
+
+.intro {
+  text-align: center;
+  line-height: 1;
+}
+
+h1 {
+  color: #11999e;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+  color: #11999e;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h6 {
+  color: #11999e;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* select class to change a specific selector style
+*/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+P {
+  margin-top: 0px;
+}
+
+.welcome {
+  margin-top: 20px;
+}
+
+.buttons {
+  margin: auto;
+  margin-bottom: 10px;
+}
+.skills{
+  text-align:left;
+}
+
+.navbar {
+  padding: 0 0 1rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 0px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #11999e;
+    font-size: 1rem;
+    font-family: "Montserrat";
+    font-weight: bolder;
+}
